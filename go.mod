@@ -1,5 +1,5 @@
 // Deprecated: Use the "github.com/github/smimesign/certstore" module instead.
-module github.com/github/certstore
+module github.com/davidcoles/certstore
 
 go 1.12
 
